@@ -1,0 +1,1147 @@
+# MASTER BUILD PROMPT — A PRIVATE UNIVERSE MADE JUST FOR HER
+
+## YOUR ROLE
+
+Act as an elite multidisciplinary digital experience team consisting of:
+
+1. A world-class creative director.
+2. An award-winning UI/UX designer.
+3. A cinematic motion designer.
+4. A senior frontend engineer.
+5. A creative storyteller.
+6. An interaction designer.
+7. A performance and accessibility engineer.
+
+Your task is to transform my idea into a fully functional, production-quality, emotionally immersive personal website.
+
+This is not a normal portfolio, landing page, photo gallery or generic romantic website.
+
+It is a private digital universe dedicated to one person. It should allow her to revisit our memories, places, conversations, journeys, photographs, videos, voices and music through an interactive cinematic experience.
+
+The experience should feel as if somebody has created an entire little world on the internet exclusively for her.
+
+**Working concept: "A Little Place in the Internet, Just for You."**
+
+Create a beautiful, coherent experience with exceptional attention to detail. Every animation, transition, photograph, sound, interaction, scroll effect, typography choice and empty space must have a purpose.
+
+Do not compromise the experience by making it look like a generic AI-generated website.
+
+---
+
+# PART 1 — CREATIVE DIRECTION AND DESIGN LANGUAGE
+
+## 1. Overall visual identity
+
+The aesthetic should combine:
+
+- Cinematic travel photography.
+- Vintage film aesthetics.
+- Editorial magazine layouts.
+- Minimal luxury website design.
+- Dreamy coastal environments.
+- Nostalgic memory journals.
+- Handwritten personal notes.
+- Atmospheric storytelling.
+- Subtle interactive illustrations.
+
+Reference the quality of Awwwards-winning interactive websites, Apple product storytelling, luxury travel editorials and beautifully crafted independent digital experiences.
+
+Do not directly copy any existing website.
+
+### Colour palette
+
+Use a carefully controlled palette:
+
+- Warm sand: #E8D6B8
+- Sunset gold: #D8A45B
+- Deep ocean: #102D3A
+- Midnight blue: #091521
+- Soft ivory: #F8F3E9
+- Muted rose: #C98F89
+- Mountain mist: #AEBCC5
+- Forest green: #344A3B
+
+The colours should evolve with the journey.
+
+Beach scenes should feel golden and warm.
+
+Memory sections should feel nostalgic, with cream, muted browns and film-like tones.
+
+Mountain scenes should transition into midnight blues, cold mist and sunrise gold.
+
+Avoid using every colour everywhere.
+
+## 2. Typography
+
+Create a combination of:
+
+- Elegant editorial serif typography for emotional headings.
+- Clean sans-serif typography for navigation and supporting text.
+- Handwritten-style typography for letters and annotations.
+- Monospaced typography for dates, coordinates and travel details.
+
+Possible font families:
+- Cormorant Garamond.
+- Playfair Display.
+- DM Sans.
+- Manrope.
+- Caveat.
+
+Use typography as part of the storytelling, not simply as decoration.
+
+## 3. Design principles
+
+- Every section should have its own visual identity but remain part of one continuous journey.
+- Use generous negative space.
+- Avoid excessive rounded cards.
+- Avoid generic gradients.
+- Avoid random floating hearts.
+- Avoid excessive glassmorphism.
+- Avoid unnecessary borders and shadows.
+- Avoid repetitive section layouts.
+- Use custom compositions rather than placing everything inside cards.
+- Keep animations smooth, intentional and restrained.
+- Design every section for both mobile and desktop.
+
+The experience should feel handcrafted.
+
+---
+
+# PART 2 — THE COMPLETE WEBSITE JOURNEY
+
+Build the website as one continuous cinematic story with distinct chapters.
+
+Use scroll-based storytelling, controlled transitions, occasional full-screen scenes and carefully designed interactive moments.
+
+## CHAPTER 01 — A SPACE RESERVED JUST FOR YOU
+
+### Opening experience
+
+When she opens the website, she should initially see a completely immersive screen.
+
+Background:
+A beautiful cinematic beach at golden hour.
+
+Visual details:
+- Gentle waves approaching the shore.
+- Soft golden sunlight.
+- Subtle moving clouds.
+- A warm sunset reflecting on the water.
+- A few seashells on the sand.
+- Gentle wind moving the atmosphere.
+- Realistic footsteps appearing along the beach.
+- A subtle film-grain texture.
+
+The first screen should be quiet, emotional and visually breathtaking.
+
+Display this message:
+
+"I reserved a little space on the internet, just for you."
+
+Below it:
+
+"Some moments deserve a place where they can live forever."
+
+Add a handwritten signature or personal name at the bottom.
+
+Include a button:
+
+"Come, let me show you something."
+
+On clicking:
+- Start the journey.
+- Begin the background music only after her interaction.
+- Transition smoothly into the next scene.
+- Animate the footsteps gradually appearing.
+- Create a feeling that she is walking into a memory.
+
+### Opening animation details
+
+- Text should appear gradually, not all at once.
+- Use subtle opacity and vertical movement.
+- The waves should move continuously.
+- Add a very subtle parallax effect.
+- Footsteps should appear sequentially.
+- Do not make the opening unnecessarily slow.
+- Add a skip-intro option.
+
+---
+
+## CHAPTER 02 — THE FIRST MEMORY: HER SMILE
+
+After the beach introduction, create a cinematic video sequence.
+
+I will upload a video of her smiling and possibly speaking.
+
+Use that actual uploaded video.
+
+Do not substitute stock footage or AI-generated people.
+
+### Scene direction
+
+The video should initially appear as part of the environment.
+
+As the user scrolls:
+- Gradually transition the background.
+- Bring the video into focus.
+- Slowly zoom towards her face.
+- Use a cinematic crop.
+- Let the surrounding environment become slightly blurred.
+- Make her smile the visual focal point.
+
+Use an elegant line of text:
+
+"Before we go anywhere, I want you to see this moment again."
+
+Another possible line:
+
+"Some things are beautiful even when time stands still."
+
+Allow the video to play with its original audio when she chooses to interact.
+
+Do not force autoplay with sound.
+
+Include a small replay interaction.
+
+The scene should feel intimate, not intrusive.
+
+---
+
+## CHAPTER 03 — CHOOSE A MEMORY TO REVISIT
+
+Now transition from the beach into an interactive memory-selection environment.
+
+Display:
+
+"Where should we go today?"
+
+Subheading:
+
+"Three little worlds. A thousand memories."
+
+Create three visually distinctive destinations.
+
+### Destination A — College Life
+
+Visual identity:
+- Campus photographs.
+- College corridors.
+- Classrooms.
+- Friends.
+- Everyday moments.
+- Random photographs.
+- Funny incidents.
+- Candid memories.
+
+Label:
+"The days that became stories."
+
+### Destination B — Ghumi Ghumi Life
+
+This is our travel and exploration chapter.
+
+Visual identity:
+- Roads.
+- Scenic destinations.
+- Train journeys.
+- Random stops.
+- Food memories.
+- Mountains.
+- Unexpected adventures.
+- Beautiful places.
+
+Label:
+"Everywhere felt better with these moments."
+
+### Destination C — Delhi Life
+
+Visual identity:
+- Delhi streets.
+- Cafes.
+- Metro journeys.
+- College or work moments.
+- City lights.
+- Winter evenings.
+- Random photographs.
+- Everyday experiences.
+
+Label:
+"A city full of little chapters."
+
+Each destination should have:
+- Its own background photograph or video.
+- A cinematic hover effect.
+- A small handwritten description.
+- A date or location detail if available.
+- An elegant selection interaction.
+
+When selected, transition into that destination rather than simply loading a grid of photographs.
+
+---
+
+# PART 3 — THE MEMORY WORLDS
+
+Each of the three destinations must be a complete interactive experience.
+
+Do not make them identical templates with different photographs.
+
+## 4. College Life — A living scrapbook
+
+Design this chapter like a combination of a vintage journal and an editorial scrapbook.
+
+Include:
+
+### A. Cinematic memory gallery
+
+- Mixed-size photographs.
+- Asymmetrical compositions.
+- Full-screen photographs.
+- Small handwritten annotations.
+- Date stamps.
+- Location captions.
+- Film borders on selected photographs.
+- Polaroid-style photographs.
+
+Clicking a photograph should open an elegant full-screen memory viewer.
+
+### B. Scratch-to-reveal photographs
+
+Create interactive scratch cards.
+
+A photograph should initially be covered with a textured surface resembling an old photograph, handwritten paper or a sealed memory.
+
+Display:
+
+"There's something hidden underneath."
+
+The user should be able to scratch with a mouse or finger.
+
+After revealing a configurable percentage of the image:
+- Reveal the complete photograph.
+- Display a short personal caption.
+- Optionally play a recorded voice message.
+- Add a subtle reveal animation.
+
+The scratch interaction must work on both desktop and mobile.
+
+Do not implement this as a simple click-to-reveal image.
+
+### C. Hidden notes
+
+Add small envelope interactions.
+
+When opened, reveal short personal messages.
+
+Examples:
+- "Remember this day?"
+- "I still laugh when I think about this."
+- "One of those completely random days."
+- "We didn't know this would become a memory."
+
+All text must be editable by me.
+
+### D. Memory timeline
+
+Create a visual timeline of college memories.
+
+Use actual dates only when provided.
+
+Allow photographs, videos, notes and voice recordings to be connected to each timeline entry.
+
+---
+
+## 5. Ghumi Ghumi Life — Our adventures
+
+This chapter should feel like an interactive travel documentary.
+
+Design a beautiful map-inspired interface.
+
+Every location we visited should become a clickable destination.
+
+### Location exploration
+
+When she selects a location:
+- Zoom into the location.
+- Transition into a cinematic photograph or video.
+- Show the place name.
+- Display a short personal story.
+- Show photographs taken at that exact location.
+- Include videos from that journey.
+- Display the date if available.
+- Include a personal caption.
+
+Create a visual effect where the map transforms into the actual photograph.
+
+For example:
+
+Map → location pin → zoom transition → full-screen photograph → memory story.
+
+Do not invent geographical coordinates or claim that photographs were taken at a particular place unless I provide that information.
+
+### Interactive travel diary
+
+Include:
+- Journey timeline.
+- Transport memories.
+- Random travel photographs.
+- Funny incidents.
+- Places we want to revisit.
+- Favourite food memories.
+- Beautiful landscape photographs.
+
+### A special feature: "See this place through my eyes"
+
+At selected locations, introduce two perspectives:
+
+"Your eyes."
+
+"My eyes."
+
+Clicking either option should display the corresponding photographs or videos taken by that person.
+
+This should feel like seeing the same world through two different perspectives.
+
+If the actual photographs are unavailable, show an elegant placeholder until I upload them.
+
+---
+
+## 6. Delhi Life — A city of memories
+
+Create a different visual identity from the travel and college chapters.
+
+The atmosphere should feel like a nostalgic city film.
+
+Include:
+- Metro-inspired transitions.
+- Night-time city photography.
+- Cafe memories.
+- Streets and markets.
+- Winter evenings.
+- Random daily-life videos.
+- Funny moments.
+- Candid photographs.
+
+Create an interactive section called:
+
+"Little things that made ordinary days special."
+
+Use small memory fragments that appear as she scrolls.
+
+Some can be photographs, others short notes, video clips or voice messages.
+
+Include a visual city map where I can connect selected memories to their actual locations.
+
+---
+
+# PART 4 — THE INTERACTIVE STORYTELLING EXPERIENCE
+
+## 7. Cinematic transitions between chapters
+
+The transitions should make the website feel like one continuous film.
+
+Examples:
+
+- Beach waves dissolve into old film photographs.
+- Photographs become pages of a journal.
+- Journal pages transform into a travel map.
+- Map lines become mountain roads.
+- Mountain roads transition into a starry sky.
+
+Use:
+- Scroll-triggered animations.
+- Mask transitions.
+- Image scaling.
+- Background transformations.
+- Parallax.
+- Text reveals.
+- Subtle camera movement.
+
+Use GSAP ScrollTrigger or Framer Motion where appropriate.
+
+Do not animate everything simultaneously.
+
+Keep the experience smooth and predictable.
+
+## 8. Personal storytelling section
+
+Create a chapter titled:
+
+"Things I never want to forget."
+
+This should be a sequence of personal stories.
+
+Each story should have:
+- A cinematic background.
+- A short title.
+- A personal paragraph.
+- An associated photograph or video.
+- Optional voice narration.
+
+Use the actual memories and words I provide.
+
+Do not fabricate relationship events, conversations, dates or feelings.
+
+When content is missing, use clearly marked editable placeholders.
+
+---
+
+# PART 5 — THE MOUNTAIN JOURNEY
+
+## 9. The journey towards the mountains
+
+This should be one of the most visually powerful parts of the entire website.
+
+The atmosphere gradually changes.
+
+The golden warmth disappears.
+
+The screen becomes cooler, darker and more atmospheric.
+
+Introduce:
+- A winding mountain road.
+- Moving clouds.
+- Mountain silhouettes.
+- A star-filled night sky.
+- Subtle wind.
+- A distant Himalayan landscape.
+- Beautiful cinematic depth.
+
+Display:
+
+"Some journeys don't end when we return home."
+
+Then:
+
+"They stay somewhere inside us."
+
+Create a smooth transition into a night-sky environment.
+
+### The sky of Hampta Pass
+
+Build an immersive starry-sky section inspired by the night sky at Hampta Pass.
+
+Include:
+- A deep midnight-blue sky.
+- Hundreds of subtle stars.
+- Occasional shooting stars.
+- Soft mountain silhouettes.
+- A cinematic horizon.
+- A gentle ambient atmosphere.
+
+Make the stars interactive.
+
+Clicking selected stars should reveal small memories, photographs, personal notes or voice recordings.
+
+Display:
+
+"Every little light has a story."
+
+Allow her to explore the sky.
+
+Each star should lead somewhere meaningful.
+
+Do not randomly assign memories without a configurable connection.
+
+## 10. The Tungnath sunrise
+
+After exploring the night sky, gradually introduce the first light of morning.
+
+Create a beautiful sunrise inspired by Tungnath.
+
+Visual direction:
+- Dark mountain silhouettes.
+- Gradually appearing golden light.
+- Mist floating across the mountains.
+- Warm sunlight touching the peaks.
+- A gradual change from blue to golden tones.
+- A cinematic sunrise transition.
+
+Display:
+
+"After every long night, there is a sunrise."
+
+Then introduce her photographs from the actual journey.
+
+Build a special photographic experience.
+
+Some photographs should be full-screen.
+
+Others should appear in elegant editorial layouts.
+
+Include a few black-and-white photographs from our journey.
+
+Create a subtle transition between:
+- The actual landscape.
+- The photograph taken there.
+- The personal memory associated with that location.
+
+This section should feel peaceful, emotional and expansive.
+
+---
+
+# PART 6 — TREASURE HUNT
+
+## 11. Hidden memories and secret discoveries
+
+Create an interactive treasure-hunting experience.
+
+Name it:
+
+"The Little Things You Haven't Found Yet."
+
+The website should contain hidden objects across different chapters.
+
+Examples:
+- A shell on the beach.
+- A hidden photograph behind a page.
+- A constellation in the night sky.
+- A hidden envelope.
+- A small object inside a travel photograph.
+- A secret handwritten note.
+
+When she finds an object, it should unlock a memory.
+
+Build a collection interface that tracks discovered treasures.
+
+For example:
+- 1/7 memories discovered.
+- 2/7 memories discovered.
+- 3/7 memories discovered.
+
+Include:
+- Visual discovery animations.
+- A collection of found objects.
+- Optional clues.
+- A final secret memory unlocked after all discoveries.
+
+The treasure hunt must be functional.
+
+Each object should have a configurable trigger, reward and unlock condition.
+
+Do not make the objects so difficult to find that the experience becomes frustrating.
+
+Allow a subtle hint system.
+
+---
+
+# PART 7 — OUR VOICES
+
+## 12. See the world through our voices
+
+Create a dedicated chapter called:
+
+"Two voices. Two perspectives. One little world."
+
+This should be a beautiful audio experience.
+
+I will upload actual recordings of both voices.
+
+Create two distinct perspectives:
+
+### Her perspective
+
+"Through your eyes."
+
+Clicking should play her selected voice recordings.
+
+Display:
+- Her photograph or selected visual.
+- Recording title.
+- Recording date, if provided.
+- A beautiful audio waveform.
+- Playback controls.
+
+### My perspective
+
+"Through my eyes."
+
+Play my selected recordings.
+
+Display the same visual structure with a distinct visual treatment.
+
+### Additional audio interactions
+
+Include:
+- Play and pause.
+- Progress bar.
+- Volume.
+- Replay.
+- Playback speed.
+- Recording duration.
+- Optional written transcript.
+- Next and previous recordings.
+
+Use actual uploaded audio.
+
+Never generate fake recordings or imitate either person's voice.
+
+Create a small collection titled:
+
+"Things our voices should never lose."
+
+---
+
+# PART 8 — MUSIC AND KARAOKE
+
+## 13. Our little music room
+
+Create a dedicated music chapter.
+
+Title:
+
+"If our memories had a soundtrack."
+
+I will provide links to songs that are meaningful to us.
+
+Create an artistic album-cover experience for every song.
+
+### Album cover design
+
+Each song should have:
+- An original artistic cover image.
+- A song title.
+- Artist name.
+- A personal note about why it is included.
+- A visual theme inspired by its mood.
+- A link to its legitimate streaming destination.
+
+The album artwork should be original, not copied from official album covers.
+
+Make the layout resemble a premium independent music magazine.
+
+### Music interactions
+
+- Horizontal album carousel.
+- Interactive hover effects.
+- Click to reveal the song story.
+- Play through an authorized embed where available.
+- Open Spotify, YouTube or another supplied music link.
+- Favourite songs collection.
+- A special playlist section.
+
+Do not download copyrighted music or pretend to host songs without permission.
+
+### Karaoke corner
+
+Create a section named:
+
+"Let's sing this one together."
+
+Include:
+- Song selection.
+- External karaoke video links.
+- Lyrics only where legally supplied or permitted.
+- A microphone-inspired visual interaction.
+- A simple recording interface if browser microphone permissions are granted.
+
+If recording is implemented:
+- Request microphone permission explicitly.
+- Show a clear recording indicator.
+- Allow playback and deletion.
+- Never upload recordings without explicit consent.
+
+---
+
+# PART 9 — ADDITIONAL SPECIAL EXPERIENCES
+
+Build the following features if they fit naturally into the story.
+
+## 14. The time capsule
+
+A beautiful sealed envelope titled:
+
+"Open this when you miss these days."
+
+Clicking it should reveal a personal letter.
+
+Also create optional time capsules with future opening dates.
+
+Use real dates and a configurable unlock system.
+
+## 15. A random memory button
+
+Add a discreet button:
+
+"Surprise me."
+
+Every click should reveal a random photograph, video, note or audio recording from the available memories.
+
+Include a smooth cinematic reveal.
+
+Avoid repeating the same memory until the collection has been exhausted where practical.
+
+## 16. Our little dictionary
+
+Create an interactive collection of:
+- Inside jokes.
+- Special words.
+- Nicknames.
+- Funny phrases.
+- Personal expressions.
+- Unforgettable conversations.
+
+Each entry should open into a small memory.
+
+## 17. The future chapter
+
+Title:
+
+"Places we haven't been yet."
+
+Show an interactive collection of destinations we might want to explore.
+
+Each destination should include:
+- A beautiful landscape photograph.
+- Place name.
+- A personal reason for wanting to go.
+- An optional note.
+- A visited / not-yet-visited status.
+
+Keep future dreams separate from actual memories.
+
+## 18. The final letter
+
+At the end of the experience, create an intimate, beautifully designed final chapter.
+
+No unnecessary animations.
+
+No excessive effects.
+
+A quiet background, beautiful typography and a personal letter.
+
+Possible opening:
+
+"Well, we have travelled through a lot of little moments."
+
+Follow it with my actual personal letter.
+
+End with:
+
+"I don't know how many more memories we will make, but I wanted to give the ones we already have a little home."
+
+Then:
+
+"Until our next adventure."
+
+Add a final button:
+
+"Start our journey again."
+
+It should take her back to the opening beach.
+
+---
+
+# PART 10 — NAVIGATION AND USER EXPERIENCE
+
+## 19. Navigation system
+
+Create a minimal navigation system.
+
+It should not look like a conventional corporate navbar.
+
+Possible design:
+
+A small discreet floating navigation control with:
+- Home.
+- Our memories.
+- Places.
+- Our voices.
+- Music room.
+- Treasure hunt.
+
+The navigation should adapt to the current chapter.
+
+On mobile, use a compact menu.
+
+Allow her to revisit previously explored chapters.
+
+Never force her to complete every chapter in sequence.
+
+## 20. Music controls
+
+Add a small persistent music player.
+
+It should:
+- Start muted or stopped.
+- Start audio only after user interaction.
+- Have play/pause.
+- Have volume controls.
+- Remember the selected track during the session.
+- Avoid restarting unnecessarily during navigation.
+
+Do not make multiple background audio tracks overlap.
+
+## 21. Loading experience
+
+Create a beautiful loading screen.
+
+Use a subtle animated shell, ocean wave or handwritten loading message.
+
+Preload only the assets needed for the current scene.
+
+Lazy-load the rest.
+
+Avoid a long artificial loading screen.
+
+If assets are still loading, show a meaningful loading state rather than a broken layout.
+
+## 22. Responsive experience
+
+Desktop:
+- Immersive full-width scenes.
+- Cinematic compositions.
+- Large editorial typography.
+- Scroll-based storytelling.
+
+Tablet:
+- Simplified compositions.
+- Responsive image grids.
+- Touch-friendly controls.
+
+Mobile:
+- Prioritize vertical storytelling.
+- Touch-friendly scratch interactions.
+- Properly cropped videos.
+- No horizontal overflow.
+- Reduced animation complexity where needed.
+- Readable typography.
+- Easily accessible playback controls.
+
+The website must be beautiful on an iPhone, not merely a desktop website squeezed onto a phone.
+
+---
+
+# PART 11 — TECHNICAL IMPLEMENTATION
+
+## 23. Technology stack
+
+Prefer:
+
+- Next.js.
+- React.
+- TypeScript.
+- Tailwind CSS.
+- Framer Motion.
+- GSAP and ScrollTrigger only where genuinely needed.
+- Lucide icons.
+- HTML5 audio and video.
+- A lightweight map library only if necessary.
+
+Keep dependencies limited.
+
+Avoid unnecessarily complex backend architecture.
+
+Use a simple content-driven architecture so I can add new photographs, videos, locations and recordings without rewriting components.
+
+## 24. Content management
+
+Create a clean content structure.
+
+For example:
+
+/public
+  /images
+    /beach
+    /college
+    /delhi
+    /travel
+    /mountains
+    /portraits
+    /album-art
+
+  /videos
+    /intro
+    /college
+    /travel
+    /delhi
+    /mountains
+
+  /audio
+    /her
+    /mine
+    /music
+
+  /fonts
+
+/src
+  /components
+  /chapters
+  /animations
+  /data
+  /hooks
+  /styles
+
+Create editable data files for:
+
+- Memories.
+- Destinations.
+- Photographs.
+- Videos.
+- Voice recordings.
+- Songs.
+- Treasure objects.
+- Letters.
+- Timeline events.
+
+Each memory should support metadata such as:
+
+- ID.
+- Title.
+- Description.
+- Image or video path.
+- Date.
+- Location.
+- Chapter.
+- Memory type.
+- Optional audio.
+- Reveal interaction.
+- Related memories.
+
+Create sample placeholder data and explain exactly how I can replace it with my own assets.
+
+Do not hardcode every photograph and caption into the UI components.
+
+## 25. Privacy and security
+
+This is a private website containing personal photographs, videos and voice recordings.
+
+Implement:
+- Password-protected access.
+- Secure server-side password verification.
+- No passwords stored in frontend JavaScript.
+- No sensitive information exposed in source code.
+- No public media directory for private content if the chosen hosting architecture exposes it.
+- Secure media access where necessary.
+- No indexing by search engines.
+- No analytics or third-party tracking by default.
+
+Clearly document which files and media are publicly accessible.
+
+A hidden URL alone does not count as security.
+
+## 26. Performance requirements
+
+The website must run smoothly on ordinary devices.
+
+Important:
+- Optimize images using modern formats such as WebP or AVIF.
+- Use responsive image sizes.
+- Compress videos.
+- Lazy-load offscreen videos and images.
+- Use poster images for videos.
+- Avoid excessive DOM elements.
+- Avoid unnecessary animation libraries.
+- Avoid expensive real-time 3D rendering unless justified.
+- Use GPU-friendly transform and opacity animations.
+- Provide a reduced-motion experience.
+- Prevent layout shifts.
+- Do not load all media simultaneously.
+
+The site should remain usable even with a slow internet connection.
+
+## 27. Accessibility
+
+Implement:
+- Keyboard navigation.
+- Visible focus states.
+- Semantic HTML.
+- Accessible buttons.
+- Captions or transcripts where available.
+- Alt text for photographs.
+- Sufficient contrast.
+- Reduced motion support.
+- Touch-friendly interactions.
+
+---
+
+# PART 12 — DEVELOPMENT AND EXECUTION RULES
+
+These instructions are mandatory.
+
+1. Do not simply generate a landing page and claim the website is complete.
+2. Build the complete experience chapter by chapter.
+3. Every button must perform its intended action.
+4. Every navigation item must lead to a working destination.
+5. Every video and audio player must work with real uploaded assets.
+6. Every scratch card must support actual scratching.
+7. Every treasure object must unlock its configured reward.
+8. Every location must connect to its corresponding memory collection.
+9. Every section must work on mobile.
+10. No fake loading screens or decorative nonfunctional controls.
+11. No broken images.
+12. No invented personal memories.
+13. No fake map coordinates.
+14. No automatic sound playback.
+15. No unnecessary backend services.
+16. No excessive dependencies.
+17. Never expose secrets in frontend code.
+
+### Development workflow
+
+Work in the following phases:
+
+**Phase 1 — Foundation**
+- Set up the project.
+- Create the design system.
+- Establish typography and colour tokens.
+- Build the responsive layout.
+- Create the navigation.
+- Establish the content architecture.
+
+**Phase 2 — Main experience**
+- Build the beach introduction.
+- Build the video scene.
+- Build the three memory destinations.
+- Build the college, travel and Delhi chapters.
+
+**Phase 3 — Advanced storytelling**
+- Build cinematic scroll transitions.
+- Build the mountain journey.
+- Build the Hampta Pass night sky.
+- Build the Tungnath sunrise.
+
+**Phase 4 — Interactive features**
+- Build scratch-to-reveal memories.
+- Build the treasure hunt.
+- Build the voice experience.
+- Build the music room.
+- Build karaoke.
+- Build time capsules.
+
+**Phase 5 — Finishing**
+- Build the final letter.
+- Test every interaction.
+- Optimize performance.
+- Test mobile responsiveness.
+- Test keyboard accessibility.
+- Verify privacy and access controls.
+- Fix all console errors.
+
+After each phase, run the application and verify that the implemented features actually work.
+
+Do not silently replace difficult functionality with decorative mockups.
+
+If a feature requires an external service, explain the dependency and implement a working alternative where possible.
+
+### Final deliverables
+
+I expect:
+
+1. A fully functional website.
+2. Complete source code.
+3. A clean folder structure.
+4. A reusable content management approach.
+5. Instructions for adding photographs and videos.
+6. Instructions for adding audio recordings and songs.
+7. Instructions for changing text and personal messages.
+8. Instructions for deployment.
+9. A privacy and security checklist.
+10. A testing checklist.
+
+Most importantly, deliver a coherent emotional experience.
+
+The website should make someone feel that every little detail was placed there intentionally.
+
+It should not feel like a website that was generated.
+
+It should feel like a place somebody made with love.

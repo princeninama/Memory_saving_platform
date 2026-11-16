@@ -1,0 +1,6 @@
+{
+  "name": "A Little Place in the Internet",
+  "description": "A private interactive digital universe of shared memories, places, journeys, voices, and music.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

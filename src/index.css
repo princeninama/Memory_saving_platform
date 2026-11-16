@@ -1,0 +1,118 @@
+@import "tailwindcss";
+
+:root {
+  --sand: #E8D6B8;
+  --gold: #D8A45B;
+  --ocean: #102D3A;
+  --midnight: #091521;
+  --ivory: #F8F3E9;
+  --rose: #C98F89;
+  --mist: #AEBCC5;
+  --forest: #344A3B;
+
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-sans: "DM Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-hand: "Caveat", cursive;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: var(--font-sans);
+    background-color: var(--midnight);
+    color: var(--ivory);
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, .font-editorial {
+    font-family: var(--font-serif);
+    text-wrap: balance;
+  }
+
+  .font-hand {
+    font-family: var(--font-hand);
+  }
+
+  .font-mono-meta {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--gold);
+    outline-offset: 3px;
+  }
+}
+
+/* Subtle organic film grain */
+.film-grain {
+  background-image: radial-gradient(rgba(248, 243, 233, 0.08) 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+/* Slow ambient wave drift */
+@keyframes wave-drift {
+  0%, 100% {
+    transform: translate3d(0, 0, 0);
+  }
+  50% {
+    transform: translate3d(-18px, 4px, 0);
+  }
+}
+
+@keyframes cloud-drift {
+  0% {
+    transform: translate3d(-3%, 0, 0);
+  }
+  50% {
+    transform: translate3d(3%, 0, 0);
+  }
+  100% {
+    transform: translate3d(-3%, 0, 0);
+  }
+}
+
+@keyframes star-twinkle {
+  0%, 100% {
+    opacity: 0.35;
+  }
+  50% {
+    opacity: 0.95;
+  }
+}
+
+.animate-wave-slow {
+  animation: wave-drift 9s ease-in-out infinite;
+}
+
+.animate-cloud-slow {
+  animation: cloud-drift 26s ease-in-out infinite;
+}
+
+.animate-twinkle {
+  animation: star-twinkle 4.5s ease-in-out infinite;
+}
+
+/* Hide scrollbars cleanly in horizontal carousels */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .animate-wave-slow,
+  .animate-cloud-slow,
+  .animate-twinkle {
+    animation: none !important;
+  }
+}
